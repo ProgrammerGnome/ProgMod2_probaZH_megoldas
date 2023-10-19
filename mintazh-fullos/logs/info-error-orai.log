@@ -1,0 +1,24 @@
+2023-10-10 13:37:55.997 [http-nio-8080-exec-1] INFO  fileLogger - 
+ * Metódus meghívása: createUser
+ * Felhasználó hozzáadása elkezdődött:
+ * [név: 'asds123', email: asd1212@asd.hu]
+2023-10-10 13:37:56.010 [http-nio-8080-exec-1] INFO  fileLogger - Felhasználó hozzáadva: [ID=1 | név: 'asds123', email: 'asd1212@asd.hu']
+2023-10-10 13:38:00.539 [http-nio-8080-exec-3] ERROR fileLogger - A következő mezők érvényesítése nem sikerült:
+name (Hibás név: a 'name' mező nem lehet üres.)
+name (Hibás név: a 'name' mező NULL.)
+2023-10-10 13:38:12.061 [http-nio-8080-exec-4] INFO  fileLogger - 
+ * Metódus meghívása: getUser
+ * Az ID=1 felhasználó megkeresése elkezdődött.
+2023-10-10 13:38:12.065 [http-nio-8080-exec-4] INFO  fileLogger - Az ID=1 felhasználó lekérdezve: [név: 'asds123', email: 'asd1212@asd.hu']
+2023-10-10 13:38:24.348 [http-nio-8080-exec-6] INFO  fileLogger - 
+ * Metódus meghívása: getUser
+ * Az ID=2 felhasználó megkeresése elkezdődött.
+2023-10-10 13:38:24.348 [http-nio-8080-exec-6] ERROR fileLogger - Lekérdezési hiba. Az ID=2 felhasználó nem található.
+2023-10-10 13:38:42.475 [http-nio-8080-exec-10] INFO  fileLogger - 
+ * Metódus meghívása: deleteUser
+ * Az ID=2 felhasználó törlése elkezdődött.
+2023-10-10 13:38:42.476 [http-nio-8080-exec-10] ERROR fileLogger - Törlési hiba. Az ID=2 felhasználó nem található.
+2023-10-10 13:38:48.621 [http-nio-8080-exec-7] INFO  fileLogger - 
+ * Metódus meghívása: deleteUser
+ * Az ID=1 felhasználó törlése elkezdődött.
+2023-10-10 13:38:48.628 [http-nio-8080-exec-7] INFO  fileLogger - Az ID=1 felhasználó eltávolítva.

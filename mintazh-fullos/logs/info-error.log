@@ -1,0 +1,42 @@
+2023-10-19 18:26:38.233 [http-nio-8080-exec-4] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi' és szerzője: czigo]
+2023-10-19 18:27:57.711 [http-nio-8080-exec-9] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi' és szerzője: czigo]
+2023-10-19 18:30:34.185 [http-nio-8080-exec-1] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi' és szerzője: czigo]
+2023-10-19 18:31:53.692 [http-nio-8080-exec-1] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi' és szerzője: czigo]
+2023-10-19 18:32:19.345 [http-nio-8080-exec-4] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi' és szerzője: czigo]
+2023-10-19 18:32:52.392 [http-nio-8080-exec-2] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi' és szerzője: czigo]
+2023-10-19 18:32:52.473 [http-nio-8080-exec-2] INFO  fileLogger - Könyv hozzáadva: [ID=1 | könyv neve: 'Valszám kopi' és szerzője: 'czigo']
+2023-10-19 18:37:25.597 [http-nio-8080-exec-6] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi' és szerzője: czigo]
+2023-10-19 19:02:13.027 [http-nio-8080-exec-1] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi 2.0' és szerzője: czigo]
+2023-10-19 19:02:34.040 [http-nio-8080-exec-4] INFO  fileLogger - 
+ * Metódus meghívása: saveNewBook
+ * Könyv hozzáadása elkezdődött:
+ * [könyv neve: 'Valszám kopi 2.0' és szerzője: czigo]
+2023-10-19 19:02:34.069 [http-nio-8080-exec-4] INFO  fileLogger - Könyv hozzáadva: [ID=2 | könyv neve: 'Valszám kopi 2.0' és szerzője: 'czigo']
+2023-10-19 19:02:51.996 [http-nio-8080-exec-6] INFO  fileLogger - 
+ * Metódus meghívása: deleteBook
+ * Az ID=2 könyv törlése elkezdődött.
+2023-10-19 19:02:52.015 [http-nio-8080-exec-6] INFO  fileLogger - Az ID=2 könyv eltávolítva.
